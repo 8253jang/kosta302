@@ -10,4 +10,8 @@ public class BoardController {
      System.out.println("서버에서 작업함~");
   }
 
+	public void  delete() {
+     System.out.println("서버에서  삭제 추가~");
+  }
+
 }
